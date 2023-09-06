@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Victor Wei"
   avatar           : "profile.png"
-  bio              : "I will thinak about it LOL"
+  bio              : "I will think about it LOL"
   location         : "Waterloo, Canada"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Institute for Quantum Computing"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=u4yqSIIAAAAJ&hl=en"
+  email            : "victor.wei203@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
