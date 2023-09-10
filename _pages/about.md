@@ -14,7 +14,7 @@ redirect_from:
 
 ⚛️ My research interests include quantum information science and its intersections with the classical world. 
 
-🐙 Check out my Blog Posts to see me as a person beyond research.
+🐙 Check out my Personal Blog to see me as a person beyond research.
 
 Guide
 ======
