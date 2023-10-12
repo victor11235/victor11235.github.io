@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![Choosing between quantum and classical worlds](/images/quantum_1.png){: .align-right width="300px"}
 🏫 I just finished my undergrduate studies in Physics and Computer Science at McGill University.
 
 👨‍🔬 I am currently doing research at the Institute for Quantum Computing in Waterloo.
