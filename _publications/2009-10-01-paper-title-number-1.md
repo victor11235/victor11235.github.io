@@ -8,5 +8,5 @@ paperurl: 'http://academicpages.github.io/files/PI_talk_short.pdf'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download slides here](http://academicpages.github.io/files/PI_talk_short.pdf)
+[Download slides here](http://victor11235.github.io/files/PI_talk_short.pdf)
 
