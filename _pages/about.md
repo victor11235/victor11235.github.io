@@ -19,5 +19,8 @@ redirect_from:
 
 Guide
 ======
-(Homepage still in progress)
+My Research Blog contains blog posts related to some of my research projects, including invited talks and poster presentations 👨‍🎓.
 
+My Personal Blog can have anything I want to write about 😼.
+
+Some of the side projects can be found in my GitHub repositories 🔬. 
