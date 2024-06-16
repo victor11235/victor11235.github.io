@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![Choosing between quantum and classical worlds](/images/quantum_1.png){: .align-right width="300px"}
-🏫 I am starting my PhD (Applied Physics) at Stanford University in June 2024. I finished my undergrduate studies in Physics and Computer Science at McGill University (❄️🌲 ➡️ 🌞🌴). 
+🏫 I started my PhD (Applied Physics) at Stanford University in June 2024. I finished my undergrduate studies in Physics and Computer Science at McGill University in 2023 (❄️🌲 ➡️ 🌞🌴). 
 
 👨‍🔬 I squeezed my undergrad into 3 years and spent a lovely gap year doing research at the Institute for Quantum Computing in Waterloo.
 
