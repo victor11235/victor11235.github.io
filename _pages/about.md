@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 ![Choosing between quantum and classical worlds](/images/quantum_1.png){: .align-right width="300px"}
-🏫 I just finished my undergrduate studies in Physics and Computer Science at McGill University.
+🏫 I am starting my PhD (Applied Physics) at Stanford University in June 2024. I finished my undergrduate studies in Physics and Computer Science at McGill University (❄️🌲 ➡️ 🌞🌴). 
 
-👨‍🔬 I am currently doing research at the Institute for Quantum Computing in Waterloo.
+👨‍🔬 I squeezed my undergrad into 3 years and spent a lovely gap year doing research at the Institute for Quantum Computing in Waterloo.
 
-⚛️ My research interests include quantum information science and its intersections with the classical world. 
+⚛️ My research interests include quantum information science and its intersections with the classical world, with an emphasis on experimental realization. 
 
 🐙 Check out my Personal Blog to see me as a person beyond research.
 
